@@ -1,0 +1,5 @@
+parent: 41130
+1.txt
+a.out
+fork.c
+write.c
